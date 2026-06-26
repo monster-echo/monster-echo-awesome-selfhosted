@@ -1794,6 +1794,7 @@ Software and tools for managing [recipes](https://en.wikipedia.org/wiki/Recipe).
 - [Sshwifty](https://github.com/nirui/sshwifty) - Sshwifty is a SSH and Telnet connector made for the Web. ([Demo](https://sshwifty-demo.nirui.org)) `AGPL-3.0` `Go/Docker`
 - [Termix](https://docs.termix.site/) - Clientless web-based server management platform with SSH terminal, tunneling, and file editing capabilities. ([Source Code](https://github.com/Termix-SSH/Termix)) `Apache-2.0` `Docker`
 - [Warpgate](https://github.com/warp-tech/warpgate) - Smart SSH and HTTPS bastion that works with any SSH client. `Apache-2.0` `Rust/Docker`
+- [Corterm](https://github.com/monster-echo/CortexTerminal2) - Self-hosted remote terminal platform with browser-native terminal, session persistence, multi-worker support, and native mobile apps. ([Demo](https://corterm.rwecho.top)) `MIT` `.NET/Docker`
 
 
 ### Resource Planning
